@@ -1,0 +1,7 @@
+ ANIMAL
+1. goat 
+2. cat 
+3. pig 
+4 fowl
+
+
